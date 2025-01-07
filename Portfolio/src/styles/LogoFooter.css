@@ -1,0 +1,21 @@
+.logos-footer {
+  display: flex;
+  justify-content: center;
+  gap: 2rem; /* Space between logos */
+  margin-top: 150px;
+}
+
+.logo-link {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.logo-link:hover {
+  transform: scale(1.1); /* Slight zoom effect on hover */
+}
+
+.logo {
+  width: 80px; /* Set the size of the logos */
+  height: 80px;
+  object-fit: contain; /* Maintain aspect ratio */
+}
