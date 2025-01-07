@@ -1,6 +1,6 @@
 # PortfolioPage <img align="right" src="https://img.shields.io/badge/License-MIT-blue"></img>
 ## Description
-A portfolio with a collection of works all linked to github
+A portfolio with a collection of works all linked to github. This portfolio was made with REACT.
 
 ## Table of Contents
 
@@ -18,4 +18,4 @@ Distributed under the MIT. See https://opensource.org/license/mit for more infor
 
 
 ## Deployed Page
-
+https://marcelpeytonportfolio.netlify.app/
