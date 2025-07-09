@@ -1,6 +1,6 @@
 # PortfolioPage <img align="right" src="https://img.shields.io/badge/License-MIT-blue"></img>
 ## Description
-A portfolio with a collection of works all linked to github. This portfolio was made with REACT.
+A portfolio with a collection of works all linked to github. This portfolio was made with REACT. It shows some projects I made.
 
 ## Table of Contents
 
