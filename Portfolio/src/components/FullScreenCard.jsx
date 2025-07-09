@@ -14,7 +14,7 @@ const FullScreenCard = () => {
             <div style= {{paddingTop: "20px", backgroundColor: "#8BCBF1"}}>
     <div className="contact-page" style= {{ paddingTop: "50px", backgroundColor: "#CCEBF9", marginTop: "100px"}}>
       <h1 className="contact-title"  style= {{ fontSize: "20px"}}>Contact Me</h1>
-      <p>Email: marcel-p@outlook.com</p>
+      Email: <a href="mailto:marcel-p@outlook.com">marcel-p@outlook.com</a>
       <p>Phone: 410-474-6080</p>
       
     </div>
